@@ -27,6 +27,9 @@ body {
     width: 1441px;
     height: 745px;
     background-image: url('../images/Hero-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 nav {
@@ -81,7 +84,7 @@ nav a {
     background-color: #4E47FF;
     color: white;
     border-radius: 8px;
-    margin-top: 37px;
+    margin-top: 47px;
     font-size: 16px;
     border: none;
 }
@@ -263,27 +266,29 @@ main {
 /* form section style */
 .form {
     height: 632px;
+    padding: 10px 25px;
 }
 
 .form-conten {
     display: flex;
     padding: 71px 0px;
     justify-content: space-between;
+    gap: 20px;
 
 }
 
 .form-conten-h3 {
-    font-size: 97px;
+    font-size: 90px;
     font-weight: bold;
-    margin-top: 120px;
+    margin-top: 80px;
 }
 
 .form-conten-title {
-    width: 60%;
+    width: 50%;
 }
 
 .input-fild {
-    width: 40%;
+    width: 50%;
 }
 
 input[type="text"],
@@ -294,13 +299,13 @@ textarea {
     width: 91%;
     margin-bottom: 24px;
     display: block;
-    margin-top: 10px;
+
     border: none;
 
 }
 
 .form-btn {
-    padding: 14px 182px;
+    padding: 14px 220px;
     background-color: #4E47FF;
     color: white;
     border-radius: 8px;
