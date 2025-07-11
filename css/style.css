@@ -253,6 +253,12 @@ main {
 
 }
 
+.banner-content-btn:hover {
+    background-color: #4bbcdc;
+    color: rgb(25, 14, 3);
+}
+
+
 .banner-content-conten {
     color: #252432;
     margin-bottom: 20px;
@@ -314,6 +320,12 @@ textarea {
     margin-bottom: 20px;
 
 }
+
+.form-btn:hover {
+    background-color: #4bbcdc;
+    color: rgb(25, 14, 3);
+}
+
 
 /* footer style */
 footer {
