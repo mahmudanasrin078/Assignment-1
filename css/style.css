@@ -188,7 +188,7 @@ main {
 .card-content {
     width: 366px;
     height: 243px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: #ffffff;
     padding: 24px;
     border-radius: 14px;
 }
@@ -299,7 +299,7 @@ textarea {
     width: 91%;
     margin-bottom: 24px;
     display: block;
-
+    margin-top: 10px;
     border: none;
 
 }
