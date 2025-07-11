@@ -221,3 +221,90 @@ main {
 .card-img {
     margin-right: 15px;
 }
+
+/* banner section style */
+.banner {}
+
+.banner-content {
+    text-align: center;
+    background-color: #FFFFFF;
+    height: 695px;
+}
+
+.banner-content-h2 {
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 78px;
+    padding-bottom: 20px;
+}
+
+.banner-content-btn {
+    padding: 12px 36px;
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    margin-bottom: 20px;
+
+}
+
+.banner-content-conten {
+    color: #252432;
+    margin-bottom: 20px;
+}
+
+.banner-img {
+    border-radius: 48px;
+
+}
+
+/* form section style */
+.form {
+    height: 632px;
+}
+
+.form-conten {
+    display: flex;
+    padding: 71px 0px;
+    justify-content: space-between;
+    background-color: #FFB805;
+}
+
+.form-conten-h3 {
+    font-size: 97px;
+    font-weight: bold;
+    margin-top: 120px;
+}
+
+.form-conten-title {
+    width: 60%;
+}
+
+.input-fild {
+    width: 40%;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    border-radius: 5px;
+    padding: 10px 20px;
+    width: 91%;
+    margin-bottom: 24px;
+    display: block;
+    margin-top: 10px;
+    border: none;
+
+}
+
+.form-btn {
+    padding: 14px 182px;
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    margin-bottom: 20px;
+
+}
